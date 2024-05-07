@@ -1,0 +1,3 @@
+[submodule "Content/UnrealPainter"]
+	path = Content/UnrealPainter
+	url = https://github.com/DimaChaichan/UnrealPainter.git
